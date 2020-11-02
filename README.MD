@@ -49,9 +49,9 @@ The speed of agile and accuracy of devops combine to generate optimal deployment
 - Sprint Retrospective
 
 ### 3 Amigos
-Business - What problem are we trying to solve?
-Development - How might we build a solution to solve that problem?
-Testing - What about this, what could possibly happen?
+- Business - What problem are we trying to solve?
+- Development - How might we build a solution to solve that problem?
+- Testing - What about this, what could possibly happen?
 
 ## Epic and User Story
 ### What is an epic story?
