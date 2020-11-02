@@ -79,6 +79,15 @@ Goal: Player has great first impressions when opening the game for the first tim
 ### Why create user stories
 Stories keep the focus on the user Stories enable collaboration Stories drive creative solutions Stories create momentum
 
+### INVEST
+Checklist for quality of user stories
+- Independent
+- Negotiable
+- Valuable
+- Estimable
+- Small
+- Testable
+
 ## Kanban
 ### What is Kaban
 Kaban is another framework used to impliment an agile system. It is essentially is a use of visual tools and indicators to improve a projects work flow. It requires real-time communication and full transparency of work
