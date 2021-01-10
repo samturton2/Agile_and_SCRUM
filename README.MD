@@ -37,7 +37,7 @@ The speed of agile and accuracy of devops combine to generate optimal deployment
 - Product Owner
 - Scrum Master
 - Development Team
-- Artifacts
+#### Artifacts
 - Product Backlog
 - Sprint Backlog
 - Burn-Down Chart Sprint
